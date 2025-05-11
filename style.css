@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://raw.githubusercontent.com/ozantekin/50Days50Projects/main/Projects/19_Notes/image/cork.png");
+
+    background-size: cover;
+    height: 100vh;
+
+}
+
+#addNote {
+    float: right;
+    margin: 10px 10px 0 0;
+    padding: 9px 14px;
+    background-color: #FF5A61;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 3px 3px 3px black;
+}
+
+.notes-container {}
+
+.note {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 400px;
+    height: 400px;
+}
